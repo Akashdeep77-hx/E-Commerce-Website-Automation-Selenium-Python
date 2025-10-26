@@ -1,11 +1,5 @@
 # E-Commerce-Website-Automation [Selenium + Python]
 
-
-<img src='./pictures/YT.PNG' width=50> Youtube reference: https://www.youtube.com/watch?v=e9Bf769mXu0
-
------------------------------------------------------------------------------------------------------
-
-
 In this project, we will simulate and automate a purchase scenario from an E-Commerce- Website with Selenium & Python.
 
 
